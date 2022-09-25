@@ -1,0 +1,46 @@
+body {
+  padding: 0px;
+  margin: 0px;
+}
+
+.nav {
+  width: 100%;
+  height: 20px;
+  flex-direction: row;
+}
+
+a{
+    padding:5px;
+    text-align: center;
+    justify-content: center;
+}
+
+i {
+  height: 10px;
+  padding: 8px;
+}
+
+input {
+  padding: 8px;
+  margin: 5px;
+  width: 900px;
+  border-radius: 15px;
+  border: none;
+  background-color: gainsboro;
+}
+
+.grid{
+width:30px;
+height:30px;
+padding-left:5px;
+padding-top:10px;
+}
+
+
+.button{
+    background-color: blue;
+    b
+    color: white;
+    padding:10px;
+
+}
